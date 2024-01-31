@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 100px;
+    background-color: rgb(15, 15, 15);
+}
+.container{
+width:350px;
+height: 800ox;
+background-color: whitesmoke; 
+border-radius: 15px;
+overflow: hidden;
+font-family: 'Roboto Mono', monospace;;
+}
+.item1{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.item2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow-x: hidden;
+    padding: 5px;
+    }
+    .item2 img{
+        border-radius: 25px;
+        border: 1cm;
+    }
+.ProfilePic{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    }
+    .ProfilePic h2{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        padding-left: 10px ;
+    }
+    .ProfilePic img{
+        border-radius: 30px;
+    }
+    .iconn{
+        padding-left: 5px;
+    }
+    #icon{
+        margin-left: 250px;
+    }
+    .item4 p{
+        padding-left: 5px;
+    }
+    .footer{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-bottom: 5px;
+    }
+    .footer img{
+        border-radius: 20px;
+    }
+.item3 item4{
+    overflow: hidden;
+}
