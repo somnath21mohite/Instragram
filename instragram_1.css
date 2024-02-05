@@ -14,7 +14,8 @@ height: 800ox;
 background-color: whitesmoke; 
 border-radius: 15px;
 overflow: hidden;
-font-family: 'Roboto Mono', monospace;;
+font-family: 'Roboto Mono', monospace;
+box-shadow: inset;
 }
 .item1{
     padding: 5px;

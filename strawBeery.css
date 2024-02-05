@@ -1,0 +1,45 @@
+.main{
+    border-color: aqua;
+    height: 6   00px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 400px;
+    background-color: rgb(247, 241, 241);    
+    border-radius: 20px;
+    
+   
+}
+
+.select{
+    padding: 10px;
+    border-radius: 10px;
+    width: 250px;
+    background-color: rgb(165, 163, 163);
+    margin-left: 35px;
+}
+#icon{
+    padding: 5px;
+    width: 20px;
+    height: 25px;
+    margin-left: 30px;
+}
+#button{
+    margin-left: 80px;
+    padding: 8px;
+    border-radius: 10px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: rgb(50, 243, 50);
+}
+h2{
+    margin-left: 30px;
+}
+.img{
+    margin-left: 40px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.h3{
+    margin-left: 40px;
+}
